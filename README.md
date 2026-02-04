@@ -16,7 +16,7 @@ Open using **Power BI Desktop (latest version recommended)**.
 
 ---
 
-# **🧰 Tools and Technologies ** 
+# 🧰 Tools and Technologies 
 Power BI Desktop  
 DAX (Data Analysis Expressions)  
 Microsoft Excel / CSV (Dataset source & validation)  
